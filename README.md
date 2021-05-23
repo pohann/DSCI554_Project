@@ -1,6 +1,4 @@
-# DSCI 554 Project
-
-Project link: http://pdms.usc.edu/dsci-554-projects/project-hotshot-crew-554/
+# DSCI 554 Final Project
 
 ## Team
 
@@ -22,6 +20,8 @@ According to the PNAS (Proceedings of the National Academy of Sciences of the Un
 The goal of our project is to first provide users with an understanding of the recent growth in wildfire incidence and severity. Secondly, we will promote action over reaction as it relates to fighting wildfires. Historic patterns and relationships among wildfire causes, seasonality, location, and spending support the notion that being proactive towards preventing fires is achievable. This approach of working to prevent wildfires should be given just as much weight and attention as is given to putting out fires that have already started.
 
 We are utilizing a [Kaggle SQLite database](https://www.kaggle.com/rtatman/188-million-us-wildfires "1.88 Million US Wildfires") referred to as the Fire Program Analysis fire-occurrence database (FPA FOD). This database contains data surrounding wildfires that occurred in the United States from 1992 to 2015. It includes 1.88 million geo-referenced wildfire records, and represents a total of 140 million acres burned during this 24 year period.
+
+Project link: http://pdms.usc.edu/dsci-554-projects/project-hotshot-crew-554/
 
 ---
 
